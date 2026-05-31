@@ -1,0 +1,6 @@
+{
+  "name": "Plant Identifier AI",
+  "description": "Identify plants in real-time, get detailed scientific classifications, care, sunlight, and water-requirement guides using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

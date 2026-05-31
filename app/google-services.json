@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701214203070",
+    "firebase_url": "https://plant-ai-7098f-default-rtdb.firebaseio.com",
+    "project_id": "plant-ai-7098f",
+    "storage_bucket": "plant-ai-7098f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701214203070:android:c5353f15285ab35f80d2ef",
+        "android_client_info": {
+          "package_name": "com.aistudio.plantidentifier.bcvwqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701214203070-ms616ri5hul4p4j5o3sga3i1lqp8i30c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBekCVW0JGmwQY_OvUjDTqOxsjy8FFMqBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701214203070-ms616ri5hul4p4j5o3sga3i1lqp8i30c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
